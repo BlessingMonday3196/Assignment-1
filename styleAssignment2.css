@@ -1,0 +1,47 @@
+*{
+/* background-color: rgba(232, 243, 255); */
+}
+
+.infoDiv{
+border-color: gray;
+border-style: inset;
+border-radius: 30px;
+border-width: 2px;
+padding: 50px;
+justify-content: center; 
+align-items: center;
+text-align: center;
+background-color: rgb(252, 252, 195);
+font-size: 17px;
+margin-top: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+word-spacing: 5px;
+}
+
+.hobbyDiv{
+border-color: gray;
+border-style: inset;
+border-radius: 30px;
+border-width: 2px;
+padding: 50px;
+background-color: rgb(199, 198, 198); 
+font-size: 17px;
+margin-top: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Name{
+text-align: center;
+font-size: 40px;
+color: blue;
+}
+
+.Edit{
+font-weight: 100px;
+text-decoration-thickness: 50px;
+text-shadow: 300px;
+box-shadow: 100px;
+}
+
+
+  
